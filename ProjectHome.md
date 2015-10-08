@@ -1,0 +1,1 @@
+A classic Noire-style murder mystery game set in 1930s Chicago. Play a P.I. and investigate the city. Talk to the locals and make the hard decisions that will lead you to the moral high ground, or into the depths of Gangland.
